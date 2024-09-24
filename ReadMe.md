@@ -1,4 +1,4 @@
-# Bloco de Notas Simples para (CLI) em Ruby utilizando a Gem "Tk"
+# Bloco de Notas Simples em Ruby utilizando a Gem "Tk"
 
 
 ![bloco_de_notas_prtsc](https://github.com/user-attachments/assets/3efb5bc3-a686-4d7b-9b50-dbba4e3b9f07)
