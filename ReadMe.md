@@ -13,7 +13,7 @@
 ## Execute os seguintes comandos para executar o algoritmo
 
 ```
-$ cd .\SoftwaresInRuby
+$ cd .\Bloco-de-notas-GUI-Ruby
 
 $ gem install tk
 
