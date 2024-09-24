@@ -1,4 +1,8 @@
 # Bloco de Notas Simples para (CLI) em Ruby utilizando a Gem "Tk"
+
+
+![Uploading bloco_de_notas_prtsc.png…]()
+
 ---
 ### Projeto feito apenas para relembrar alguns conceitos da Gem Tk
 
